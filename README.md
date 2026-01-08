@@ -315,4 +315,5 @@ Global Orientation纯国际线路香港VPS测试地址：https://hkgointl.speedt
 
 # HostKVM评测
 HostKVM所有VPS均采用KVM虚拟化构架（Kernel-based Virtual Machine），Raid10阵列硬盘，不但硬件配置高、稳定性好，而且访问速度较快，比较适合远程办公、跨境电商以及个人建站等业务。
+
 更多HostKVM用户评价和详细测评：[点击查看](https://my.hostkvm.com/aff.php?aff=1741)
