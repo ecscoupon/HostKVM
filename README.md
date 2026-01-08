@@ -301,10 +301,15 @@ Global Orientation国际线路香港VPS方案内地访问延迟略高，可以�
 ## TOTHOST网络测试信息
 
 China Premium香港VPS测试地址：https://hkcp.speedtest.hostkvm.com
+
 Global Orientation纯国际线路香港VPS测试地址：https://hkgointl.speedtest.hostkvm.com
+
 日本东京机房测试地址：https://jpty.speedtest.hostkvm.com
+
 日本大阪机房测试地址：https://jpsk.speedtest.hostkvm.com
+
 韩国广播IP优化线路测试地址：https://krco.speedtest.hostkvm.com
+
 韩国原生IP国际线路测试地址：https://krgo.speedtest.hostkvm.com
 
 # HostKVM评测
